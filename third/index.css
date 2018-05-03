@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top{
+  background-color: #D8D8D8;
+  height: 13vh;
+  padding: 1.25vh 0;
+}
+.blue-square{
+  background-color: #4A90E2;
+  height: 10vh;
+  width: 10vh;
+  margin-left: 3vw;
+}
+.text{
+  background-color: white;
+  height: 31vh;
+  
+}
+p{
+  text-align: left;
+  font-size: 3vh;
+  padding: 7vh 5vw;
+}
+.box{
+  height: 14vh;
+}
+.blue{
+  background-color: #4A90E2;
+}
+.aqua{
+  background-color: #50E3C2;
+}
+.green{
+  background-color: #B8E986;
+}
+.yellow{
+  background-color: #F8E71C;
+}
